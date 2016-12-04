@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4075a412-3c5e-438c-951e-9a0447fa8c7a" name="Default" comment="adding main file">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+    <list default="true" id="4075a412-3c5e-438c-951e-9a0447fa8c7a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="log4j-exp.iws" />
@@ -42,8 +40,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09072581">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.69758064">
+              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -720,7 +718,7 @@
       <created>1480829584718</created>
       <option name="number" value="Default" />
       <updated>1480829584718</updated>
-      <workItem from="1480829586593" duration="1714000" />
+      <workItem from="1480829586593" duration="1884000" />
     </task>
     <task id="LOCAL-00001" summary="adding git ignore">
       <created>1480830039263</created>
@@ -740,11 +738,17 @@
       <option name="project" value="LOCAL" />
       <updated>1480830157608</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding log4j2 conf file">
+      <created>1480831824555</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1480831824555</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1714000" />
+    <option name="totallyTimeSpent" value="1884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -782,7 +786,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding git ignore" />
     <MESSAGE value="adding main file" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding main file" />
+    <MESSAGE value="adding log4j2 conf file" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding log4j2 conf file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -822,8 +827,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09072581">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.69758064">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
           <folding />
         </state>
       </provider>
