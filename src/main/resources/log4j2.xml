@@ -1,0 +1,19 @@
+<Configuration>
+    <Appenders>
+        <Console name="stdout">
+            <PatternLayout pattern="%d{ABSOLUTE} %5p %c{1}:%L - %m%n" />
+        </Console>
+        <File name="tempFileLog" fileName="/Users/11158/Desktop/MyWorkSpace/temp/tempLog.log">
+            <PatternLayout pattern="%m%n"/>
+        </File>
+        <!--<File name="rootFileLog" fileName="/Users/11158/Desktop/MyWorkSpace/rootTemp/tempLog.log">-->
+            <!--<PatternLayout pattern="%m%n"/>-->
+        <!--</File>-->
+    </Appenders>
+    <Loggers>
+        <Root level="info" additivity="false">
+            <AppenderRef ref="tempFileLog"/>
+            <!--<AppenderRef ref="rootFileLog"/>-->
+        </Root>
+    </Loggers>
+</Configuration>
